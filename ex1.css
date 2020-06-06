@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(108, 108, 219);
+    font: 16pt 'Roboto', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    height: 350px;
+    width: 700px;
+    margin: auto;
+
+    padding: 10px;
+
+    background-color: rgb(235, 231, 231);
+    box-shadow: 5px 5px 10px rgba(31, 30, 30, 0.808);
+
+    border-radius: 20px;
+}
+
+div {
+    text-align: center;
+    padding-top: 20px;
+}
+
+footer {
+    color: rgba(255, 255, 255, 0.479);
+    text-align: center;
+    font-style: italic;
+}
